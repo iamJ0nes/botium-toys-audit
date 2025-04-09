@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/banner.png" alt="Botium Toys Audit Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/banner-fixed.png" alt="Botium Toys Audit Banner" width="100%"/>
+
+
 
 
 
