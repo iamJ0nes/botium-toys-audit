@@ -11,3 +11,9 @@ This audit aligns with the NIST Cybersecurity Framework (CSF):
 - **PCI DSS:** Inadequate controls for securing credit card data.  
 - **GDPR:** Partial adherence; customer data is largely secure but lacks proper classification.  
 - **SOC (Type 1 & 2):** User access policies and data confidentiality issues identified.
+
+## 🧱 Threat Model – STRIDE
+
+The following diagram outlines the six primary threat categories defined by STRIDE:
+
+![Threat Model Diagram](assets/threat-model.png)
