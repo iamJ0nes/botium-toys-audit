@@ -12,3 +12,10 @@ The audit includes:
 - Evaluate the effectiveness of current security controls  
 - Assess compliance with U.S. and international standards  
 - Provide actionable recommendations to improve security posture
+
+## 📡 Internal Network Overview
+
+The following diagram represents the current internal network structure:
+
+![Network Diagram](assets/network-diagram.png)
+
