@@ -1,13 +1,17 @@
 # Next Steps
 
 **Planned Enhancements:**
-- **Visual Artifacts:**  
-  - Upload a simulated network diagram (e.g., `assets/network-diagram.png`).
-  - Add sample log files in the `logs` folder (e.g., `logs/sample-logs.log`).
-  - Add vulnerability scan screenshots and tool outputs in the `screenshots` folder.
-- **Detailed Reports:**  
-  - Develop a full vulnerability scan report.
-  - Create a threat modeling diagram (e.g., STRIDE matrix).
-  - Map out an incident response timeline.
-- **Interactive Enhancements (Optional):**  
-  - Use GitHub Pages to create an interactive version of the audit report.
+
+### 🖼️ Visual Artifacts
+- Incorporate a simulated network diagram to illustrate system architecture (`assets/network.png`)
+- Include representative log entries for audit analysis (`logs/sample-logs.log`)
+- Add screenshots from vulnerability scans and analysis tools to demonstrate assessment workflow (`screenshots/`)
+
+### 📄 Detailed Reports
+- Document a simulated vulnerability scan and provide findings and recommendations
+- Create a STRIDE-based threat model diagram to highlight risk categories
+- Develop an incident response timeline to demonstrate preparedness and lifecycle handling
+
+### 🌐 Interactive Options (Optional)
+- Publish an interactive version of the audit using GitHub Pages for public presentation
+

@@ -1,8 +1,3 @@
-
-
-
-
-
 # Botium Toys Internal Security Audit
 
 ![Audit Status](https://img.shields.io/badge/Audit-Fictional-informational?style=flat-square&color=blue)
