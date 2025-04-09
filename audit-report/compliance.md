@@ -16,6 +16,7 @@ This audit aligns with the NIST Cybersecurity Framework (CSF):
 
 The following diagram outlines six core categories of security threats based on the STRIDE model:
 
-![Threat Model Diagram](../assets/threat-model.png)
+![Threat Model](../assets/threat-model.png)
+
 
 
