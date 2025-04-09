@@ -13,10 +13,4 @@ The audit includes:
 - Assess compliance with U.S. and international standards  
 - Provide actionable recommendations to improve security posture
 
-## Network Architecture
-
-Below is the internal network structure used by Botium Toys:
-
-![Network Diagram](https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/network-diagram.png)
-
-
+![Network Diagram](https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/network-final.png)

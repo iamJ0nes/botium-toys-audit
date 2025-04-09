@@ -12,9 +12,4 @@ This audit aligns with the NIST Cybersecurity Framework (CSF):
 - **GDPR:** Partial adherence; customer data is largely secure but lacks proper classification.  
 - **SOC (Type 1 & 2):** User access policies and data confidentiality issues identified.
 
-## STRIDE Threat Model
-
-The following STRIDE diagram outlines key threat categories relevant to Botium Toys:
-
-![Threat Model](https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/threat-model.png)
-
+![Threat Model](https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/threat-final.png)
