@@ -53,18 +53,58 @@
     <p>Conducted by Jones | April 2025</p>
   </header>
   <main>
-    <nav class="nav">
+    <section>
+      <h2>Botium Toys Internal Security Audit</h2>
+      <p>
+        <img src="https://img.shields.io/badge/Audit-Fictional-informational?style=flat-square&color=blue" alt="Audit Status Badge">
+        <img src="https://img.shields.io/badge/Focus-Internal_Security-orange?style=flat-square" alt="Focus Badge">
+        <img src="https://img.shields.io/badge/Framework-NIST_CSF-green?style=flat-square" alt="Framework Badge">
+      </p>
+      <p><em>Simulated internal security audit report showcasing cybersecurity assessment, risk analysis, and compliance evaluation.</em></p>
+    </section>
+
+    <section class="nav">
       <strong>Jump to section:</strong>
       <a href="#executive-summary">Executive Summary</a>
+      <a href="#scope-objectives">Scope & Objectives</a>
+      <a href="#risk-assessment">Risk Assessment Summary</a>
       <a href="#key-findings">Key Findings</a>
+      <a href="#security-controls">Existing Security Controls</a>
       <a href="#recommendations">Recommendations</a>
-      <a href="#visuals">Visuals</a>
+      <a href="#compliance">Compliance & Framework Alignment</a>
+      <a href="#checklist">Controls & Compliance Checklist</a>
       <a href="#next-steps">Next Steps</a>
-    </nav>
+    </section>
 
     <section id="executive-summary">
       <h2>Executive Summary</h2>
       <p>This internal audit evaluates the security posture of Botium Toys, focusing on asset inventory, data protection, access control, and compliance. Several high-risk vulnerabilities were identified, and specific mitigation steps are recommended to strengthen overall resilience.</p>
+    </section>
+
+    <section id="scope-objectives">
+      <h2>Scope & Objectives</h2>
+      <p><strong>Scope:</strong> The audit includes employee devices, internal network infrastructure, enterprise systems (accounting, telecom, ecommerce, inventory), data retention systems, legacy systems, and physical locations (warehouse and storefront).</p>
+      <p><strong>Objectives:</strong></p>
+      <ul>
+        <li>Identify and classify all organizational assets</li>
+        <li>Evaluate the effectiveness of current security controls</li>
+        <li>Assess compliance with U.S. and international standards</li>
+        <li>Provide actionable recommendations to improve security posture</li>
+      </ul>
+    </section>
+
+    <section id="risk-assessment">
+      <h2>Risk Assessment Summary</h2>
+      <ul>
+        <li><strong>Asset Management:</strong> Poor inventory practices; untracked assets (High – 8/10)</li>
+        <li><strong>Access Control:</strong> No least privilege enforcement or RBAC (High)</li>
+        <li><strong>Data Protection:</strong> No encryption of credit card/PII data (High)</li>
+        <li><strong>Incident Detection:</strong> No IDS/IPS in place (High)</li>
+        <li><strong>Disaster Recovery:</strong> No DR plans or backup processes (High)</li>
+        <li><strong>Password Management:</strong> Weak, outdated policies (Medium)</li>
+        <li><strong>Physical Security:</strong> Locks, CCTV, and fire systems are in place (Low)</li>
+        <li><strong>Legacy Systems:</strong> Maintained, but lacking scheduled oversight (Medium)</li>
+      </ul>
     </section>
 
     <section id="key-findings">
@@ -74,6 +114,16 @@
         <li>No encryption of sensitive data</li>
         <li>No IDS/IPS or disaster recovery plans in place</li>
         <li>Weak password policies and legacy systems without schedules</li>
+      </ul>
+    </section>
+
+    <section id="security-controls">
+      <h2>Existing Security Controls</h2>
+      <ul>
+        <li>Firewall configured with rule sets</li>
+        <li>Antivirus software installed and regularly monitored</li>
+        <li>Physical security measures including locks, CCTV, and fire prevention systems</li>
+        <li>GDPR breach notification processes in place</li>
       </ul>
     </section>
 
@@ -87,9 +137,33 @@
       </ul>
     </section>
 
+    <section id="compliance">
+      <h2>Compliance & Framework Alignment</h2>
+      <p>This audit aligns with the NIST Cybersecurity Framework (CSF):</p>
+      <ul>
+        <li><strong>Identify:</strong> Gaps in asset inventory and classification</li>
+        <li><strong>Protect:</strong> Issues with encryption, password policy, and access controls</li>
+        <li><strong>Detect:</strong> No IDS/IPS or centralized logging</li>
+        <li><strong>Respond/Recover:</strong> No DR plans or response playbooks</li>
+      </ul>
+      <p><strong>Standards Covered:</strong> PCI DSS, GDPR, SOC Type 1 & 2</p>
+    </section>
+
+    <section id="checklist">
+      <h2>Controls & Compliance Checklist</h2>
+      <p><strong>Key Control Gaps:</strong></p>
+      <ul>
+        <li>No separation of duties or RBAC policies</li>
+        <li>No encryption for cardholder or PII data</li>
+        <li>No intrusion detection systems in place</li>
+        <li>Lack of centralized password management</li>
+        <li>No data backup or recovery testing</li>
+      </ul>
+    </section>
+
     <section id="visuals">
       <h2>Visuals</h2>
-      <p>Visual content such as network diagrams and threat models will be included here.</p>
+      <p>Visual content such as network diagrams and threat models is included below:</p>
       <img src="assets/network.png" alt="Network Diagram" style="width:100%; max-width:600px; margin-bottom:1rem;" />
       <img src="assets/threat.png" alt="Threat Model" style="width:100%; max-width:600px;" />
     </section>
@@ -100,7 +174,7 @@
         <li>Finalize visual content uploads</li>
         <li>Include real-world logs and sample scans</li>
         <li>Create downloadable PDF version of report</li>
-        <li>Enhance interactivity using GitHub Pages styling or Jekyll themes</li>
+        <li>Enhance interactivity using GitHub Pages or Jekyll themes</li>
       </ul>
     </section>
   </main>
