@@ -13,5 +13,6 @@ The audit includes:
 - Assess compliance with U.S. and international standards  
 - Provide actionable recommendations to improve security posture
 
-![Network Diagram](https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/network-clean.png)
+![Network Diagram](https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/network-final.png)
+
 

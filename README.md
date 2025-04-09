@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/banner-clean.png" width="100%" />
+<img src="https://raw.githubusercontent.com/iamJ0nes/botium-toys-audit/main/assets/banner-final.png" width="100%" />
+
+
 
 
 # Botium Toys Internal Security Audit
