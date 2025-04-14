@@ -28,3 +28,9 @@
 - **Screenshots:** Additional scan and tool screenshots in the `screenshots` folder.
 
 ---
+
+## 🔬 Additional Activities
+
+This section includes training labs and exercises completed as part of the Google Cybersecurity Certificate.
+
+- [TCPDump Network Traffic Analysis](activities/tcpdump-analysis.md)
