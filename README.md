@@ -48,4 +48,11 @@ This activity simulates a SYN flood DoS attack against a web server and analyzes
 
 [View Report →](activities/syn-flood-report.md)
 
+---
+
+### 🧨 Malware Redirection & Brute Force Analysis  
+![Time](https://img.shields.io/badge/Estimated%20Time-20%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Moderate-yellow?style=flat-square)  
+This case study covers a brute force intrusion that modified website source code to redirect users to a malware-hosting site via JavaScript injection.
+
+[View Report →](activities/malware-redirect-analysis.md)
 
