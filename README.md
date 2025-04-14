@@ -34,6 +34,18 @@
 
 This section includes training labs and exercises completed as part of the Google Cybersecurity Certificate.
 
-- [TCPDump Network Traffic Analysis](activities/tcpdump-analysis.md)
-- [SYN Flood Attack Analysis](activities/syn-flood-analysis.md)
+### 🛠️ TCPDump Network Traffic Analysis  
+![Time](https://img.shields.io/badge/Estimated%20Time-15%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success?style=flat-square)  
+A network investigation case study exploring DNS and ICMP traffic using `tcpdump` to identify service disruption.
+
+[View Report →](activities/tcpdump-analysis.md)
+
+---
+
+### 🛡️ SYN Flood Attack Analysis  
+![Time](https://img.shields.io/badge/Estimated%20Time-20%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Moderate-yellow?style=flat-square)  
+This activity simulates a SYN flood DoS attack against a web server and analyzes its impact using packet log data.
+
+[View Report →](activities/syn-flood-analysis.md)
+
 

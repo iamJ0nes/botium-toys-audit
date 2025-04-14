@@ -1,3 +1,13 @@
+---
+title: TCPDump Network Traffic Analysis
+difficulty: Easy
+estimated_time: 15 minutes
+---
+
+### 🛠️ Overview  
+This case study analyzes a DNS-related service outage by inspecting packet captures with `tcpdump`. The investigation walks through identifying UDP and ICMP traffic and the resulting service disruption due to unreachable ports.
+
+
 # Cybersecurity Incident Report:  
 ## Network Traffic Analysis
 

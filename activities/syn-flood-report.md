@@ -1,3 +1,13 @@
+---
+title: SYN Flood Attack Analysis
+difficulty: Moderate
+estimated_time: 20 minutes
+---
+
+### 🛡️ Overview  
+This case study investigates a SYN flood denial-of-service (DoS) attack using color-coded TCP packet data. The exercise highlights the telltale signature of a flooding attack and walks through how it affects server availability and performance.
+
+
 # Cybersecurity Incident Report  
 ## SYN Flood Attack – Web Server Interruption
 
