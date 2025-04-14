@@ -19,6 +19,7 @@
 - [Controls & Compliance Checklist](audit-report/checklist.md)
 - [Next Steps](audit-report/next-steps.md)
 - [Supporting Files](#supporting-files)
+- [Additional Activities](#-additional-activities)
 
 ---
 
@@ -34,3 +35,5 @@
 This section includes training labs and exercises completed as part of the Google Cybersecurity Certificate.
 
 - [TCPDump Network Traffic Analysis](activities/tcpdump-analysis.md)
+- [SYN Flood Attack Analysis](activities/syn-flood-analysis.md)
+
