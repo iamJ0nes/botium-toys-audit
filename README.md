@@ -63,3 +63,11 @@ This case study covers a brute force intrusion that modified website source code
 This activity reviews a social media organization's security breach and outlines practical network hardening methods including MFA, password policy enforcement, and firewall configuration.
 
 [View Report →](activities/network-hardening-assessment.md)
+
+---
+
+### 🌐 ICMP DDoS Attack Report (NIST CSF Aligned)  
+![Time](https://img.shields.io/badge/Estimated%20Time-25%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Moderate-yellow?style=flat-square)  
+This report applies the NIST Cybersecurity Framework to a real-world DDoS attack involving ICMP traffic, exploring how each function—Identify, Protect, Detect, Respond, and Recover—was used to mitigate the threat.
+
+[View Report →](activities/ddos-nist-csf-report.md)
