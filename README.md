@@ -56,3 +56,10 @@ This case study covers a brute force intrusion that modified website source code
 
 [View Report →](activities/malware-redirect-analysis.md)
 
+---
+
+### 🔒 Network Hardening Assessment  
+![Time](https://img.shields.io/badge/Estimated%20Time-20%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Moderate-yellow?style=flat-square)  
+This activity reviews a social media organization's security breach and outlines practical network hardening methods including MFA, password policy enforcement, and firewall configuration.
+
+[View Report →](activities/network-hardening-assessment.md)
