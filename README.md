@@ -71,3 +71,11 @@ This activity reviews a social media organization's security breach and outlines
 This report applies the NIST Cybersecurity Framework to a real-world DDoS attack involving ICMP traffic, exploring how each function—Identify, Protect, Detect, Respond, and Recover—was used to mitigate the threat.
 
 [View Report →](activities/ddos-nist-csf-report.md)
+
+---
+
+### 🧮 Linux File Permissions Analysis  
+![Time](https://img.shields.io/badge/Estimated%20Time-15%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success?style=flat-square)  
+This hands-on activity demonstrates how to use `ls -la` and `chmod` to inspect and harden Linux file and directory permissions in a shared team environment.
+
+[View Report →](activities/linux-permissions-analysis.md)
