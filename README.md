@@ -79,3 +79,11 @@ This report applies the NIST Cybersecurity Framework to a real-world DDoS attack
 This hands-on activity demonstrates how to use `ls -la` and `chmod` to inspect and harden Linux file and directory permissions in a shared team environment.
 
 [View Report →](activities/linux-permissions-analysis.md)
+
+---
+
+### 🧮 SQL Query Filtering for Security Investigations  
+![Time](https://img.shields.io/badge/Estimated%20Time-15%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success?style=flat-square)  
+This case study demonstrates how SQL filters were applied to support an internal investigation into potential security events and to identify employee systems in need of security updates.
+
+[View Report →](activities/sql-query-filtering.md)
