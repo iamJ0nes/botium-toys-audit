@@ -90,9 +90,10 @@ This case study demonstrates how SQL filters were applied to support an internal
 
 ---
 
-### 🧱 Public Database Vulnerability Assessment  
-![Time](https://img.shields.io/badge/Estimated%20Time-15%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success?style=flat-square)  
-This report outlines a vulnerability assessment for a remote database left publicly accessible since launch. It includes a risk table and recommendations to secure sensitive data using NIST SP 800-30 standards.
+### 🧪 Vulnerability Assessment – Public Database Server  
+![Time](https://img.shields.io/badge/Estimated%20Time-20%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Moderate-yellow?style=flat-square)  
+This report evaluates a publicly exposed remote database server used by an e-commerce company. The assessment identifies key risks using the NIST SP 800-30 framework and outlines a remediation strategy to secure sensitive customer data.
 
 [View Report →](activities/vulnerability-assessment.md)
+
 
