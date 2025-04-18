@@ -87,3 +87,11 @@ This hands-on activity demonstrates how to use `ls -la` and `chmod` to inspect a
 This case study demonstrates how SQL filters were applied to support an internal investigation into potential security events and to identify employee systems in need of security updates.
 
 [View Report →](activities/sql-query-filtering.md)
+
+---
+
+### 🗄️ Public Database Vulnerability Assessment  
+![Time](https://img.shields.io/badge/Estimated%20Time-25%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Moderate-yellow?style=flat-square)  
+This vulnerability assessment evaluates a publicly exposed database server used by a remote team. It outlines business risks, potential threats, and a NIST-aligned remediation plan to secure access and data integrity.
+
+[View Report →](activities/public-database-assessment.md)
