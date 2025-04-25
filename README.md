@@ -96,4 +96,12 @@ This report evaluates a publicly exposed remote database server used by an e-com
 
 [View Report →](activities/vulnerability-assessment.md)
 
+---
+
+### 🧾 IP Allow List Update Script  
+![Time](https://img.shields.io/badge/Estimated%20Time-15%20Minutes-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success?style=flat-square)  
+This project uses Python to automate updates to an IP allow list, ensuring that unauthorized addresses are removed efficiently to maintain secure access control.
+
+[View Report →](activities/ip-allow-list-update.md)
+
 
